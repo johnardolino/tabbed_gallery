@@ -11,8 +11,15 @@ body {
     color: white;
 }
 
-h2 {
-	font-size: 3em;
+header {
+	margin-left: .3em;
+	font-size: 4em;
+}
+
+#slogan {
+	text-align: right;
+	font-size: .5em;
+	margin-right: .5em;
 }
 
 #maindiv {
